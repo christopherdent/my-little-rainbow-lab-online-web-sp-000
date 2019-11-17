@@ -11,4 +11,6 @@ div {
 }
 
 
-#red 
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
